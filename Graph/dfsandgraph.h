@@ -1,3 +1,5 @@
+/* DFS (Busca em Profundidade) */
+
 #ifndef GRAPH_H
 #define GRAPH_H
 
