@@ -1,3 +1,5 @@
+//Grafo Não Orientado
+
 #ifndef GRAPH_H
 #define GRAPH_H
 
@@ -63,11 +65,7 @@ class Graph{
             cout << endl;
         }
 
-    }
-
-    //Depth Fist Search
-    
-    
+    }    
 };
 
 #endif
