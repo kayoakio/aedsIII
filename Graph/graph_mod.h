@@ -1,3 +1,5 @@
+/*Grafo Orientado com DFS modificada, e função de de achar o Grafo Transposto (trans()).*/
+
 #ifndef GRAPH_H
 #define GRAPH_H
 
