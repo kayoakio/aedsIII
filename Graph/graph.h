@@ -1,3 +1,5 @@
+/*Implementação de um Grafo Não Orientado*/
+
 #ifndef GRAPH_H
 #define GRAPH_H
 
@@ -65,9 +67,6 @@ class Graph{
 
     }
 
-    //Depth Fist Search
-    
-    
 };
 
 #endif
